@@ -1,2 +1,2 @@
-# EditHtml
-android 版html编辑器
+# EditCode
+android 版代码编辑器
